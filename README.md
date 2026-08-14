@@ -93,20 +93,44 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 
 <div align="center">
 
+<div align="center">
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,linux,vscode&theme=dark" height="42" alt="" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,linux&theme=dark" height="42" alt="" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,aws,docker,githubactions,jupyter&theme=dark" height="42" alt="" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,aws,docker,githubactions&theme=dark" height="42" alt="" />
 
 <br/><br/><br/>
 
+<table>
+<tr>
+<td align="right" width="30%"><sub><b>ANALYSIS</b></sub></td>
+<td width="70%"><sub>Pandas&nbsp; · &nbsp;NumPy&nbsp; · &nbsp;SciPy&nbsp; · &nbsp;Statsmodels&nbsp; · &nbsp;Jupyter&nbsp; · &nbsp;Excel</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>MODELLING</b></sub></td>
 <td><sub>scikit-learn&nbsp; · &nbsp;XGBoost&nbsp; · &nbsp;LightGBM&nbsp; · &nbsp;TensorFlow&nbsp; · &nbsp;PyTorch</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>LANGUAGE & AI</b></sub></td>
 <td><sub>Hugging&nbsp;Face&nbsp; · &nbsp;Transformers&nbsp; · &nbsp;Text&nbsp;preprocessing&nbsp; · &nbsp;Fairness&nbsp;auditing</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>VISUALISATION</b></sub></td>
+<td><sub>Power&nbsp;BI&nbsp; · &nbsp;Tableau&nbsp; · &nbsp;Matplotlib&nbsp; · &nbsp;Seaborn&nbsp; · &nbsp;Plotly</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>PLATFORM</b></sub></td>
 <td><sub>AWS&nbsp; · &nbsp;SageMaker&nbsp; · &nbsp;Docker&nbsp; · &nbsp;MLflow&nbsp; · &nbsp;Streamlit&nbsp; · &nbsp;PySpark</sub></td>
+</tr>
+</table>
 
+<br/>
+
+</div>
 <table>
 <tr>
 <td align="right" width="30%"><sub><b>ANALYSIS</b></sub></td>
