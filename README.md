@@ -1,7 +1,7 @@
 <!--
-  GHANSHYAM MRUNAL JETTY — Profile README (v2, "Slate")
+  GHANSHYAM MRUNAL JETTY  Profile README (v2, "Slate")
   Design notes: single accent (#58A6FF), monochrome badges, thin rules,
-  generous whitespace. Restraint is the point — resist adding badges.
+  generous whitespace. Restraint is the point  resist adding badges.
 -->
 
 <div align="center">
@@ -42,13 +42,13 @@
 <tr>
 <td width="60%" valign="top">
 
-For seven years I worked the business side — digital marketing, vendor negotiations, real estate and facilities analysis, including time at **Amazon** and **Oracle**. Different titles, one pattern underneath: every role came down to numbers.
+For seven years I worked the business side  digital marketing, vendor negotiations, real estate and facilities analysis, including time at **Amazon** and **Oracle**. Different titles, one pattern underneath: every role came down to numbers.
 
 I managed vendor relationships at Amazon, ran paid campaigns across Google and Meta, and made facilities decisions at Oracle backed by cost data. I was reading the numbers. I wasn't the one building the models behind them.
 
-That's what sent me back to university. I'm finishing an **MSc in Data Science (Advanced Practices)** at **Northumbria University**, adding machine learning and generative AI alongside it.
+That's what sent me back to university. I finished an **MSc in Data Science (Advanced Practices)** at **Northumbria University**, adding machine learning and generative AI alongside it.
 
-What I bring that most career-switchers don't is business context. I've sat on the other side of the table asking *what does this number actually mean for us* — so I know what a stakeholder needs from a dashboard before they know how to ask for it.
+What I bring that most career-switchers don't is business context. I've sat on the other side of the table asking *what does this number actually mean for us*  so I know what a stakeholder needs from a dashboard before they know how to ask for it.
 
 Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-level Data Scientist**.
 
@@ -58,9 +58,9 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 <br/>
 
 **EXPERIENCE**
-<br/><sub>Amazon — vendor management</sub>
-<br/><sub>Oracle — facilities analysis</sub>
-<br/><sub>Digital marketing — 7 years</sub>
+<br/><sub>Amazon  vendor management</sub>
+<br/><sub>Oracle  facilities analysis</sub>
+<br/><sub>Digital marketing  7 years</sub>
 
 <br/>
 
@@ -71,7 +71,7 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 <br/>
 
 **IN PROGRESS**
-<br/><sub>AWS ML Engineer — Associate</sub>
+<br/><sub>AWS ML Engineer  Associate</sub>
 
 <br/>
 
@@ -162,7 +162,7 @@ A modelling pipeline that routes molecular inputs through a controller layer to 
 
 <sub>FROM RAW DATA TO RESPONSIBLE AI</sub>
 
-An end-to-end NLP project tracing the route from messy raw text through cleaning, modelling and evaluation — with fairness checks built into the pipeline rather than bolted on afterwards.
+An end-to-end NLP project tracing the route from messy raw text through cleaning, modelling and evaluation  with fairness checks built into the pipeline rather than bolted on afterwards.
 
 <sub>`NLP` &nbsp;`Transformers` &nbsp;`Bias Auditing`</sub>
 
@@ -179,7 +179,7 @@ An end-to-end NLP project tracing the route from messy raw text through cleaning
 
 <sub>DETECTING BREAST CANCER THROUGH<br/>DATA AND DEEP LEARNING</sub>
 
-A classification pipeline on diagnostic features, tuned for recall rather than raw accuracy — in screening, a missed positive costs far more than a false alarm.
+A classification pipeline on diagnostic features, tuned for recall rather than raw accuracy  in screening, a missed positive costs far more than a false alarm.
 
 <sub>`TensorFlow` &nbsp;`Classification` &nbsp;`Medical Data`</sub>
 
@@ -194,7 +194,7 @@ A classification pipeline on diagnostic features, tuned for recall rather than r
 
 <sub>NOTEBOOKS, EXPERIMENTS, APPLIED PRACTICE</sub>
 
-A working collection covering statistical analysis, feature engineering, model comparison and visualisation — the bench behind the larger projects.
+A working collection covering statistical analysis, feature engineering, model comparison and visualisation  the bench behind the larger projects.
 
 <sub>`Pandas` &nbsp;`EDA` &nbsp;`Feature Engineering`</sub>
 
@@ -240,7 +240,7 @@ A working collection covering statistical analysis, feature engineering, model c
 
 <table>
 <tr>
-<td width="25%" valign="top"><sub><b>AWS ML ENGINEER</b><br/>Associate track — SageMaker, pipelines, deployment</sub></td>
+<td width="25%" valign="top"><sub><b>AWS ML ENGINEER</b><br/>Associate track  SageMaker, pipelines, deployment</sub></td>
 <td width="25%" valign="top"><sub><b>AGENTIC AI & RAG</b><br/>LangChain, vector stores, retrieval evaluation</sub></td>
 <td width="25%" valign="top"><sub><b>MLOPS</b><br/>MLflow tracking, CI/CD for models, containers</sub></td>
 <td width="25%" valign="top"><sub><b>ANALYTICS ENGINEERING</b><br/>dbt, warehouse modelling, advanced SQL</sub></td>
