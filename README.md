@@ -93,8 +93,6 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 
 <div align="center">
 
-<div align="center">
-
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,linux&theme=dark" height="42" alt="" />
@@ -131,35 +129,6 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 <br/>
 
 </div>
-<table>
-<tr>
-<td align="right" width="30%"><sub><b>ANALYSIS</b></sub></td>
-<td width="70%"><sub>Pandas&nbsp; · &nbsp;NumPy&nbsp; · &nbsp;SciPy&nbsp; · &nbsp;Statsmodels&nbsp; · &nbsp;Excel</sub></td>
-</tr>
-<tr>
-<td align="right"><sub><b>MODELLING</b></sub></td>
-<td><sub>scikit-learn&nbsp; · &nbsp;XGBoost&nbsp; · &nbsp;TensorFlow&nbsp; · &nbsp;PyTorch</sub></td>
-</tr>
-<tr>
-<td align="right"><sub><b>LANGUAGE & AI</b></sub></td>
-<td><sub>Hugging&nbsp;Face&nbsp; · &nbsp;Transformers&nbsp; · &nbsp;LangChain&nbsp; · &nbsp;spaCy&nbsp; · &nbsp;RAG</sub></td>
-</tr>
-<tr>
-<td align="right"><sub><b>VISUALISATION</b></sub></td>
-<td><sub>Power&nbsp;BI&nbsp; · &nbsp;Tableau&nbsp; · &nbsp;Matplotlib&nbsp; · &nbsp;Seaborn&nbsp; · &nbsp;Plotly</sub></td>
-</tr>
-<tr>
-<td align="right"><sub><b>PLATFORM</b></sub></td>
-<td><sub>AWS&nbsp; · &nbsp;SageMaker&nbsp; · &nbsp;Docker&nbsp; · &nbsp;MLflow&nbsp; · &nbsp;PySpark</sub></td>
-</tr>
-</table>
-
-<br/>
-
-</div>
-
-<br/>
-
 ---
 
 <br/>
