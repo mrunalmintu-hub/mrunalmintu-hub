@@ -95,13 +95,17 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,aws,docker,git,linux&theme=dark" height="42" alt="" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,linux,vscode&theme=dark" height="42" alt="" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,flask,fastapi,streamlit,anaconda,vscode&theme=dark" height="42" alt="" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,aws,docker,githubactions,jupyter&theme=dark" height="42" alt="" />
 
 <br/><br/><br/>
+
+<td><sub>scikit-learn&nbsp; · &nbsp;XGBoost&nbsp; · &nbsp;LightGBM&nbsp; · &nbsp;TensorFlow&nbsp; · &nbsp;PyTorch</sub></td>
+<td><sub>Hugging&nbsp;Face&nbsp; · &nbsp;Transformers&nbsp; · &nbsp;Text&nbsp;preprocessing&nbsp; · &nbsp;Fairness&nbsp;auditing</sub></td>
+<td><sub>AWS&nbsp; · &nbsp;SageMaker&nbsp; · &nbsp;Docker&nbsp; · &nbsp;MLflow&nbsp; · &nbsp;Streamlit&nbsp; · &nbsp;PySpark</sub></td>
 
 <table>
 <tr>
