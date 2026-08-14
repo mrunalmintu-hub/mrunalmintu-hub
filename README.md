@@ -129,6 +129,7 @@ Looking for my next role as a **Data Analyst**, **Business Analyst** or **entry-
 <br/>
 
 </div>
+
 ---
 
 <br/>
