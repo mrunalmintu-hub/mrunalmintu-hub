@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img width="92%" src="https://raw.githubusercontent.com/mrunalmintu-hub/mrunalmintu-hub/main/assets/pipeline.svg" alt="Data pipeline: raw data through cleaning and modelling to forecast" />
+<img width="92%" src="assets/pipeline.svg" alt="Data pipeline: raw data through cleaning and modelling to forecast" />
 
 </div>
 
